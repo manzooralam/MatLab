@@ -1,4 +1,4 @@
- <b>NOISE ANALYSIS IN DIGITAL IMAGES</b>
+ <b>NOISE ANALYSIS IN DIGITAL IMAGES : </b>
 
 In this project we are address the issue of noise which is introduced into data by the capturing action, environment features etc. And an empirically study we have taken two digital images and shown the performance of Average ﬁlter, Median ﬁlter and Weiner ﬁlter  on Gaussian noise & Salt and pepper noise affected images. Hence, After experimental results state that when Gaussian Noise is exist in the Digital Image Median ﬁlter and Weiner ﬁlter are  good  to de-noising the digital image at max level, but wiener  filter is  best among three filters. So, as far as Salt & Pepper noise is Concern that Salt & Pepper Noise is exists in the Digital image then also Median ﬁlter and Weiner ﬁlter are the good to de-noising the image at max level, but The Median filter is best among all three.
 
